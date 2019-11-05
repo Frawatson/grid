@@ -1,0 +1,111 @@
+body {
+    margin: 0; 
+    height: 100vh;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 50px;
+}
+
+header {
+    background-color: yellow;
+}
+.two {
+    background-color: purple;
+}
+.three{
+    background-color: blue;    
+}
+.four{
+    background-color: grey;
+}
+.five{
+    background-color: green;
+}
+.six {
+    background-color: maroon;
+}
+.seven{
+    background-color: coral;
+}
+.eight {
+    background-color: khaki;
+}
+.nine {
+    background-color: red;
+}
+.ten {
+    background-color: orange;
+}
+.eleven {
+    background-color: turquoise;
+}
+.twelve {
+    background-color: pink;
+}
+.thirteen {
+    background-color: fuchsia;
+}
+.fourteen {
+    background-color: gold;
+}
+.fifteen {
+    background-color: pink;
+}
+.sixteen {
+    background-color: forestgreen;
+}
+.seventeen {
+    background-color: mediumturquoise;
+}
+.eighteen {
+    background-color: thistle;
+}
+.nineteen {
+    background-color: olive;
+}
+.twenty {
+    background-color: seashell;
+}
+.twenty-one {
+    background-color: rosybrown;
+}
+.twenty-two {
+    background-color: indianred;
+}
+.twenty-three {
+    background-color: hotpink;
+}
+.twenty-four {
+    background-color:lavender;
+}
+.twenty-five {
+    background-color: lightblue;
+}
+.twenty-six {
+    background-color: yellowgreen;
+}
+.twenty-seven {
+    background-color: cornflowerblue;
+}
+.twenty-eight {
+    background-color: aqua;
+}
+.twenty-nine {
+    background-color: skyblue;
+}
+.thirty {
+    background-color: chocolate;
+}
+.thirty-one {
+    background-color: papayawhip;
+}
+.thirty-two {
+    background-color: navajowhite;
+}
+a{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
